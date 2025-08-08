@@ -1,0 +1,10 @@
+# OpenAI Agent SDK 依賴
+openai-agents>=0.1.0
+
+# LangGraph 依賴
+langgraph>=0.2.0
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+
+# 共同依賴
+python-dotenv  # 用於管理環境變數

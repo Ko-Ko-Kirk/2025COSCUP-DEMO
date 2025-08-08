@@ -1,0 +1,13 @@
+[project]
+name = "coscup-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-core>=0.3.74",
+    "langchain-openai>=0.3.29",
+    "langgraph>=0.6.4",
+    "openai-agents>=0.2.5",
+    "python-dotenv>=1.1.1",
+]
