@@ -1,6 +1,10 @@
 # OpenAI Agent SDK vs LangGraph 可執行範例
 
-這裡提供兩個框架的最小可執行範例，展示各自的核心特性。
+這是 KOKO 在 20250809 的開源人年會裡提供兩個框架的最小可執行範例，展示各自的核心特性。
+
+這場演講是「Source Code Deep Dive into OpenAI Agent SDK vs LangGraph 」，本次演講將深入剖析這兩套框架的原始碼，對比它們在 Agent 核心 Loop、工具呼叫、記憶體管理、狀態轉移與多 Agent 協作等等的面向的架構與設計理念。透過實際程式碼與設計哲學的交叉解析，協助開發者理解這兩種不同 Paradigm 如何各自支撐現代 AI Agent 系統的運作與擴展。
+
+本 Repo 為補充資料。
 
 ## 環境設定
 
